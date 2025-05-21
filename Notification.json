@@ -1,9 +1,9 @@
 {
   "enabled": true,
-  "title": "Hello",
+  "title": "doraemon",
   "message": "Welcome To My App",
   "style": "bigtext",
-"lines": [ "Message 1", "Message 2", "Hello 3"], 
+"lines": [ "Message 1", "Message 2", "hi kese ho 3"], 
   "sound": true,
   "vibrate": true,
   "expires": "2025-12-01T12:00:00",
@@ -11,7 +11,7 @@
   "actions": [
     {
       "title": "Open",
-      "url": "https://example.com"
+      "url": "https://instagram.com/sahitya_000"
     },
     {
       "title": "later"
