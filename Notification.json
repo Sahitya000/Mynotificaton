@@ -1,21 +1,21 @@
 {
-  "enabled": true,
-  "title": "doraemon",
-  "message": "Welcome To My App",
-  "style": "inbox",
-"lines": [ "Message 1", "Message 2", "hi kese ho 3"], 
-  "sound": true,
-  "vibrate": true,
-  "expires": "2025-12-01T12:00:00",
-  "image": "https://ibb.co/Y4DmJ3MF",
-  "actions": [
-    {
-      "title": "Open"
-      
-    },
-    {
-      "title": "later",
-      "url": "https://instagram.com/sahitya_000"
-    }
-  ]
+  "enabled": true,
+  "title": "doraemon",
+  "message": "Welcome To My App",
+  "style": "inbox",
+  "lines": ["Message 1", "Message 2", "hi kese ho 3"],
+  "sound": true,
+  "vibrate": true,
+  "expires": "2025-12-01T12:00:00",
+  "image": "https://ibb.co/Y4DmJ3MF",
+  "actions": [
+    {
+      "title": "later",
+      "url": ""
+    },
+    {
+      "title": "Open",
+      "url": "https://instagram.com/sahitya_000"
+    }
+  ]
 }
