@@ -3,18 +3,18 @@
   "title": "Hello",
   "message": "Welcome To My App",
   "style": "inbox",
-"lines": ["رسالة ١", "رسالة ٢", "مرحبا ٣"],
+"lines": ["messag 1","message 2","testing"],
   "sound": true,
   "vibrate": true,
   "expires": "2025-12-01T12:00:00",
   "image": "http://alo0osh-sy.yn.lt/images/-.jpg",
   "actions": [
     {
-      "title": "فتح",
-      "url": "https://example.com"
+      "title": "Open",
+      "url": "https://t.me/sktech_000"
     },
     {
-      "title": "تجاهل"
+      "title": "close"
     }
   ]
 }
