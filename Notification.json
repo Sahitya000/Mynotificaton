@@ -2,7 +2,7 @@
   "enabled": true,
   "title": "doraemon",
   "message": "Welcome To My App",
-  "style": "inbox",
+  "style": "bigpicture",
 "lines": ["Message 1", "Message 2", "hi kese ho 3"],
   "sound": true,
   "vibrate": true,
