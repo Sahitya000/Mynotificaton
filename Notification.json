@@ -10,12 +10,11 @@
   "image": "https://ibb.co/Y4DmJ3MF",
   "actions": [
     {
-      "title": "later",
-      "url": ""
-    },
-    {
       "title": "Open",
       "url": "https://instagram.com/sahitya_000"
+    },
+    {
+     "title": ""
     }
   ]
 }
