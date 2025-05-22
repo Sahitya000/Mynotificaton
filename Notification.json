@@ -1,5 +1,5 @@
 {
-  "enabled": true,
+  "enabled": false,
   "title": "Hello",
   "message": "Welcome To My App",
   "style": "inbox",
